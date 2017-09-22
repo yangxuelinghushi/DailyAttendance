@@ -1,12 +1,12 @@
-# zhangsan1504
+# yangxueling1504
 
-我是张三，来自1501班计算机科学与技术专业。
+我是杨雪玲，来自1504班物联网工程专业。
 
 Working hard and coding more.
 
 ## 个人简历
 
-[张三的个人简历](./Resume.md)
+[杨雪玲的个人简历](./Resume.md)
 
 ## 每日签到
 
